@@ -8,7 +8,7 @@ I'm continuously learning and exploring modern software development practices to
 ## 🧰 Tech Stack & Tools
 
 - 💻 **Languages:** C#, C++ and Java  
-- ⚙️ **Skills:** Project Management, Data Structures and Algorithms , Competitive Programming 
+- ⚙️ **Skills:** Project Management, Data Structures and Algorithms , OOD, OOP , Competitive Programming , Some Design Patterns
 - 🛠️ **Tools & Platforms:** Visual Studio, Git, GitHub  
 
 ---
